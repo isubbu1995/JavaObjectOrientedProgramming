@@ -6,10 +6,11 @@ Learn about these concepts with Java Examples
  - Inheritance
  - Interfaces
  - Polymorphism
- - Abstract class
+ - Abstract classs
  - Coupling
  - Cohesion 
 
+ - Encapsulations 
 
 ### Troubleshooting
 - Refer our TroubleShooting Guide - https://github.com/in28minutes/in28minutes-initiatives/tree/master/The-in28Minutes-TroubleshootingGuide-And-FAQ
