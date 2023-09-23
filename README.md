@@ -9,7 +9,7 @@ Learn about these concepts with Java Examples
  - Abstract class
  - Coupling
  - Cohesion 
- - Encapsulation 
+
 
 ### Troubleshooting
 - Refer our TroubleShooting Guide - https://github.com/in28minutes/in28minutes-initiatives/tree/master/The-in28Minutes-TroubleshootingGuide-And-FAQ
